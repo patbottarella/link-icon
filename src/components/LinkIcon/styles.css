@@ -1,0 +1,11 @@
+a {
+  color: black;
+}
+
+a:hover {
+  color: rgb(168, 179, 27);
+}
+
+.Icon {
+  font-size: 30px;
+}
